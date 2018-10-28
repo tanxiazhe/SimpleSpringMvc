@@ -1,0 +1,32 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+cdr-analysis/
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+logs
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+fs-srv.jar
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+.metadata/
+*.log
+nohup.out
+.DS_Store
+WebContent/META-INF/
